@@ -28,8 +28,8 @@ This repository contains **solved Java coding problems** organized by topic, wit
 **Milad Sadeghi**
 
 - GitHub: [@miladsade96](https://github.com/miladsade96)
-- LinkedIn: [My LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: i@miladsadeghi.tech
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/miladsade96)
+- Email: [i@miladsadeghi.tech](mailto:i@miladsadeghi.tech)
 
 ---
 
